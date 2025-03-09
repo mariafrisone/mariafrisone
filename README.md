@@ -1,5 +1,6 @@
 
-<p>Hola! Mi nombre es Maria, Licenciada en Relaciones Públicas y actual estudiante de DAM</p>
+<p>Hola! Mi nombre es Maria 
+  Licenciada en Relaciones Públicas y actual estudiante de DAM</p>
 
 
 
